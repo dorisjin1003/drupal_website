@@ -1,10 +1,4 @@
 
-![image](https://github.com/AE-Labs-Hub/Volicity-Web-Site/assets/158774060/82f9ab63-d758-4d19-80fc-8e52a8750b79)
-![image](https://github.com/AE-Labs-Hub/Volicity-Web-Site/assets/158774060/bfe90748-91cc-4515-a32a-54c70642b390)
-![image](https://github.com/AE-Labs-Hub/Volicity-Web-Site/assets/158774060/b560cc46-e6b9-465d-8e07-a10cfdc95eba)
-
-
-
 <img alt="Drupal Logo" src="https://www.drupal.org/files/Wordmark_blue_RGB.png" height="60px">
 
 Drupal is an open source content management platform supporting a variety of
